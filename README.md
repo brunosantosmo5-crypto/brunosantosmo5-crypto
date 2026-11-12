@@ -1,78 +1,59 @@
-<div align="center">
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=185&section=header&text=Olá,%20Mundo!%20Sou%20o%20Bruno%20👋&fontSize=35&fontColor=818CF8&animation=fadeIn&fontAlignY=38" />
+</h1>
 
-# Bruno Santos
+<h3 align="center">
+  🤖 Analista de IA & Automação | Desenvolvedor Python & Machine Learning
+</h3>
 
-### IA Generativa · Machine Learning · Automação Inteligente
-
-**Estudante de Gestão da Tecnologia da Informação | Desenvolvedor em formação**
-
-<p>
-  <a href="https://brunosantosmo5-crypto.github.io/brunosantosmo5-crypto/">🌌 Acessar portfólio interativo</a>
-  &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/bruno-santos-717a761a1">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/brunosantosmo5-crypto">GitHub</a>
+<p align="center">
+  <a href="https://linkedin.com/in/bruno-santos-717a761a1" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/brunosantosmo5-crypto" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
-
-</div>
 
 ---
 
-## Sobre mim
+### 💡 Sobre Mim
 
-Sou estudante de Gestão da Tecnologia da Informação e desenvolvedor em formação. Meu foco é construir soluções que conectem **IA Generativa, dados, APIs e automações** para resolver problemas reais.
-
-Tenho interesse especial em agentes de IA, sistemas com RAG, integração de modelos de linguagem e aplicações de Machine Learning para análise e previsão.
-
-## Áreas de foco
-
-| Área | Foco de estudo e desenvolvimento |
-|---|---|
-| **IA Generativa** | LLMs, RAG, engenharia de prompts, agentes e integração com APIs |
-| **Machine Learning** | Python, análise de dados, aprendizado supervisionado e previsão de demanda |
-| **Automação Inteligente** | n8n, APIs, workflows, integração entre sistemas e processos com IA |
-
-## Stack e ferramentas
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini">
-  <img src="https://img.shields.io/badge/RAG-5B4BDB?style=for-the-badge&logoColor=white" alt="RAG">
-  <img src="https://img.shields.io/badge/Machine_Learning-0B7285?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning">
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
-</p>
-
-## Projetos em destaque
-
-### [RAG-H-brido](https://github.com/brunosantosmo5-crypto/RAG-H-brido)
-Assistente RAG híbrido em Python e Streamlit. Prioriza a busca vetorial em documentos locais com ChromaDB e utiliza busca na web como fallback quando o contexto local não é suficiente.
-
-**Tecnologias:** Python · ChromaDB · OpenRouter · Llama 3.1 · Pandas · Streamlit
-
-### [Mini-CRM BStech](https://github.com/brunosantosmo5-crypto/mini-crm-bstech)
-CRM com PostgreSQL e n8n para captura e acompanhamento de leads. Utiliza Gemini para qualificação automática, sugere próximas ações e gera relatórios com Python e Pandas.
-
-**Tecnologias:** n8n · PostgreSQL · Google Gemini · Python · Pandas
-
-### [BStech Caption Agent](https://github.com/brunosantosmo5-crypto/instagram-caption-agent)
-Agente que organiza dados de produtos, gera legendas com Gemini, valida o conteúdo com Python e automatiza o fluxo de publicação e notificação.
-
-**Tecnologias:** n8n · Python · Google Gemini · APIs · Google Sheets
-
-## Estatísticas do GitHub
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=brunosantosmo5-crypto&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunosantosmo5-crypto&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas">
-</div>
+Estudante de **Gestão de TI** com forte atuação no desenvolvimento de sistemas em **Python**, automações de processos de ponta a ponta e arquiteturas de Inteligência Artificial Generativa. Meu foco é transformar ideias complexas em soluções funcionais e eficientes.
 
 ---
 
-<div align="center">
+### 🦅 Stack Tecnológica
 
-*Aprender · Construir · Evoluir*
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logo=database&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
-</div>
+---
+
+### 🚀 Projetos em Destaque
+
+* **[RAG-H-brido](https://github.com/brunosantosmo5-crypto/RAG-H-brido):** Assistente inteligente de Retrieval-Augmented Generation em Python que combina busca vetorial local (ChromaDB) com fallback automático para pesquisa na web em tempo real (OpenRouter + Llama 3.1).
+* **Automações de Backend & CRM:** Desenvolvimento de fluxos automatizados e estruturação de dados utilizando Python e ferramentas modernas de integração.
+
+---
+
+### 📊 Meu GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brunosantosmo5-crypto&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunosantosmo5-crypto&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brunosantosmo5-crypto&theme=tokyonight&hide_border=true" width="100%" />
+</p>
+
+---
