@@ -1,4 +1,4 @@
-[**Projetos**](#projetos)　·　[**Sobre mim**](#perfil)　·　[**Contato**](#contato)
+![README.md](assets/nav-readme.svg) [![Projetos](assets/nav-projetos.svg)](#projetos) [![Sobre mim](assets/nav-perfil.svg)](#perfil) [![Contato](assets/nav-contato.svg)](#contato)
 
 [![Bruno Santos · Inteligência artificial, agentes e automação. Mulher-robô em movimento. Abrir a experiência interativa com áudio.](assets/painel.svg)](https://bruno-santos-portfolio-lab.brunosantosmo57.chatgpt.site)
 
