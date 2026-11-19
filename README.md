@@ -1,50 +1,55 @@
-![Bruno Santos — Agentes de IA e automação com Python, n8n e PostgreSQL](./banner-bruno-ia.gif)
+<a name="inicio"></a>
 
-## Sobre mim
+![Bruno Santos. Agentes de IA e automação. Desenvolvo agentes que consultam dados, atendem clientes e automatizam pedidos usando Python, n8n, PostgreSQL e Docker.](assets/bruno.gif)
 
-Sou Bruno dos Santos de Morais e busco uma oportunidade de estágio ou júnior para trabalhar com **inteligência artificial e automação**. Desenvolvo agentes que consultam dados, respondem a clientes e executam tarefas integrando Python, APIs e PostgreSQL.
+[Explorar projetos](#projetos) · [Sobre mim](#sobre) · [Contato](#contato) · [Repositórios](https://github.com/brunosantosmo5-crypto?tab=repositories)
 
-Em um dos meus projetos, criei um agente de pré-venda para uma loja de materiais de construção. Ele consulta preços e estoque, monta pedidos e encaminha a conversa para um atendente quando o cliente precisa de ajuda.
+<a name="projetos"></a>
 
-[LinkedIn](https://www.linkedin.com/in/bruno-santos-717a761a1/) · [Repositórios](https://github.com/brunosantosmo5-crypto?tab=repositories) · [E-mail](mailto:brunosantosmo5@gmail.com)
+![Projetos em destaque: RAG híbrido, agente de pré-venda, Instagram Caption Agent e Mini-CRM com IA.](assets/projetos.gif)
 
-## Projetos em destaque
+<details>
+<summary><strong>RAG híbrido</strong> · Detalhes técnicos</summary>
 
-### Assistente de RAG híbrido
+O assistente consulta bases estruturadas com ChromaDB e Pandas. Quando a busca local precisa de complemento, pesquisa na web. A interface Streamlit reúne a consulta e a resposta gerada via OpenRouter.
 
-Assistente que pesquisa informações em uma base local com ChromaDB e recorre à busca na web quando precisa de outra fonte. A consulta e a resposta ficam reunidas em uma interface Streamlit.
+**Tecnologias:** Python · Streamlit · ChromaDB · Pandas · OpenRouter API
 
-**Tecnologias:** Python · ChromaDB · Pandas · Streamlit · OpenRouter API
+</details>
 
-### Agente de IA para atendimento e pré-venda
+<details>
+<summary><strong>Agente de pré-venda</strong> · Detalhes técnicos</summary>
 
-Agente conversacional para lojas de materiais de construção. Consulta o catálogo, valida dados e confirma pedidos. As regras de pedido ficam no PostgreSQL, e uma API registra eventos para acompanhar a execução e identificar falhas.
+Agente no WhatsApp para lojas de materiais de construção. Valida os dados do cliente, consulta o catálogo e confirma pedidos com regras transacionais no PostgreSQL. Uma API registra eventos para monitorar falhas.
 
-**Tecnologias:** n8n · Python · PostgreSQL · PL/pgSQL · Docker Compose
+**Tecnologias:** n8n · PostgreSQL · PL/pgSQL · Python · Docker Compose
 
-### Instagram Caption Agent
+</details>
 
-Fluxo que gera legendas e automatiza a publicação de conteúdo no Instagram. A integração com a Meta Graph API permite acompanhar a execução de cada publicação.
+<details>
+<summary><strong>Instagram Caption Agent</strong> · Detalhes técnicos</summary>
+
+O fluxo integra geração de legendas, publicação no Instagram e acompanhamento de cada execução.
 
 **Tecnologias:** n8n · Python · Google Gemini · Meta Graph API
 
-### Mini-CRM com IA
+</details>
 
-Automação que captura e qualifica leads, organiza os contatos em uma base estruturada e gera relatórios para acompanhamento.
+<details>
+<summary><strong>Mini-CRM com IA</strong> · Detalhes técnicos</summary>
 
-**Tecnologias:** n8n · PostgreSQL · Supabase · Python · Pandas · JavaScript
+A automação registra os leads em uma base estruturada e gera relatórios para acompanhar os contatos.
 
-## Competências técnicas
+**Tecnologias:** n8n · PostgreSQL / Supabase · Python · Pandas · JavaScript
 
-| Área | Ferramentas e conhecimentos |
-| --- | --- |
-| Inteligência artificial | Agentes de IA, IA generativa, RAG e busca vetorial |
-| Automação e integração | n8n, APIs REST, webhooks e SMTP |
-| Backend e dados | Python, FastAPI, SQL, PostgreSQL, ChromaDB e Pandas |
-| Infraestrutura e versionamento | Docker, Docker Compose, Git e GitHub |
-| Machine Learning | Fundamentos de aprendizado supervisionado e classificação com scikit-learn |
+</details>
 
-## Formação
+<a name="sobre"></a>
 
-- **Gestão da Tecnologia da Informação** — Estácio · Em andamento
-- **Dados com Python e IA** — Aceleração Santander · Em andamento
+![Sobre mim. Sou Bruno dos Santos de Morais, de Morro Agudo, SP. Tenho experiência em atendimento e escritório e desenvolvo agentes conversacionais e integrações. Curso Gestão da Tecnologia da Informação na Estácio e Dados com Python e IA na Aceleração Santander.](assets/sobre.gif)
+
+<a name="contato"></a>
+
+![Vamos conversar? Busco oportunidades de estágio ou júnior em inteligência artificial.](assets/contato.gif)
+
+[Enviar e-mail](mailto:brunosantosmo5@gmail.com) · [LinkedIn](https://www.linkedin.com/in/bruno-santos-717a761a1/) · [Voltar ao início](#inicio)
