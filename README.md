@@ -1,14 +1,12 @@
-# Bruno Santos · Agentes de IA e automação
+[**Projetos**](#projetos)　·　[**Sobre mim**](#perfil)　·　[**Contato**](#contato)
 
-![Rede neon em movimento](assets/rede.gif)
+[![Bruno Santos · Inteligência artificial, agentes e automação. Abrir a experiência interativa com áudio.](assets/painel.svg)](https://bruno-santos-portfolio-lab.brunosantosmo57.chatgpt.site)
 
-Desenvolvo agentes que consultam dados, atendem clientes e confirmam pedidos. Busco uma oportunidade de estágio ou júnior em inteligência artificial.
+<a name="projetos"></a>
 
-**Python · n8n · PostgreSQL · Docker**
+![Projetos](assets/projetos.svg)
 
-## Projetos
-
-<details>
+<details open>
 <summary>RAG híbrido</summary>
 
 Consulta uma base vetorial local e recorre à busca na web quando precisa de outra fonte. A resposta chega ao usuário pela interface Streamlit.
@@ -44,10 +42,12 @@ Captura e qualifica leads, organiza os contatos e gera relatórios de acompanham
 
 </details>
 
-![Sinal neon animado](assets/sinal.gif)
+<a name="perfil"></a>
 
-## Sobre mim
+![Sobre mim. Bruno dos Santos de Morais, de Morro Agudo, SP. Curso Gestão de TI na Estácio e Dados com Python e IA na Aceleração Santander.](assets/perfil.svg)
 
-Sou Bruno dos Santos de Morais, de Morro Agudo, SP. Minha trajetória inclui atendimento e rotinas de escritório. Curso Gestão da Tecnologia da Informação na Estácio e Dados com Python e IA na Aceleração Santander.
+<a name="contato"></a>
 
-[LinkedIn](https://www.linkedin.com/in/bruno-santos-717a761a1/) · [E-mail](mailto:brunosantosmo5@gmail.com)
+![Vamos conversar?](assets/contato.svg)
+
+[Enviar e-mail](mailto:brunosantosmo5@gmail.com) · [LinkedIn](https://www.linkedin.com/in/bruno-santos-717a761a1/) · [GitHub](https://github.com/brunosantosmo5-crypto)
