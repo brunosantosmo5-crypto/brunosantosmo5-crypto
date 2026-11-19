@@ -1,17 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 630" width="1080" height="630" role="img"><title>Sobre mim · Bruno dos Santos de Morais</title><rect x="1" y="1" width="1078" height="628" fill="#160e22" stroke="#62335d"/><g font-family="sans-serif"><text x="28" y="48" font-size="39" fill="#d9b0ff" font-weight="bold">Sobre mim.</text>
-<text x="28" y="88" font-size="21" fill="#dfcbf4" font-weight="normal">Sou Bruno dos Santos de Morais, de Morro Agudo (SP). Minha experiência em atendimento e</text>
-<text x="28" y="118" font-size="21" fill="#dfcbf4" font-weight="normal">rotinas de escritório orienta os problemas que escolho resolver com tecnologia. No</text>
-<text x="28" y="148" font-size="21" fill="#dfcbf4" font-weight="normal">agente de pré-venda para materiais de construção, por exemplo, transformei etapas do</text>
-<text x="28" y="178" font-size="21" fill="#dfcbf4" font-weight="normal">atendimento em um fluxo que consulta estoque, confirma pedidos e encaminha a conversa a</text>
-<text x="28" y="208" font-size="21" fill="#dfcbf4" font-weight="normal">uma pessoa quando necessário.</text>
-<text x="28" y="256" font-size="21" fill="#dfcbf4" font-weight="normal">Desenvolvo agentes de inteligência artificial e automações com Python e n8n. Uso SQL e</text>
-<text x="28" y="286" font-size="21" fill="#dfcbf4" font-weight="normal">PL/pgSQL para validar operações no PostgreSQL e Docker Compose para executar os</text>
-<text x="28" y="316" font-size="21" fill="#dfcbf4" font-weight="normal">serviços. Trabalho também com APIs REST, webhooks, logs e alertas para acompanhar o que</text>
-<text x="28" y="346" font-size="21" fill="#dfcbf4" font-weight="normal">acontece depois que um fluxo é acionado.</text>
-<text x="28" y="394" font-size="21" fill="#dfcbf4" font-weight="normal">Em machine learning, estudo os fundamentos do aprendizado supervisionado, com foco em</text>
-<text x="28" y="424" font-size="21" fill="#dfcbf4" font-weight="normal">classificação e análise de dados com Pandas e scikit-learn. Curso Gestão da Tecnologia</text>
-<text x="28" y="454" font-size="21" fill="#dfcbf4" font-weight="normal">da Informação na Estácio e Dados com Python e IA na Aceleração Santander.</text>
-<text x="28" y="502" font-size="27" fill="#ffb6d5" font-weight="bold">Principais ferramentas</text>
-<text x="28" y="536" font-size="20" fill="#dfcbf4" font-weight="normal">Python e dados — Python · SQL · Pandas · scikit-learn (fundamentos)</text>
-<text x="28" y="570" font-size="20" fill="#dfcbf4" font-weight="normal">IA e automação — n8n · RAG · ChromaDB · OpenRouter · Streamlit</text>
-<text x="28" y="604" font-size="20" fill="#dfcbf4" font-weight="normal">Backend e operação — FastAPI · PostgreSQL · Supabase · Docker Compose · Git</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 630" width="1080" height="630" role="img"><title>Sobre mim · Bruno dos Santos de Morais</title><rect x="1" y="1" width="1078" height="628" fill="#101929" stroke="#414763"/><g font-family="sans-serif"><text x="28" y="48" font-size="39" fill="#bdc7da" font-weight="bold">Sobre mim.</text>
+<text x="28" y="88" font-size="21" fill="#dce1e9" font-weight="normal">Sou Bruno dos Santos de Morais, de Morro Agudo (SP). Minha experiência em atendimento e</text>
+<text x="28" y="118" font-size="21" fill="#dce1e9" font-weight="normal">rotinas de escritório orienta os problemas que escolho resolver com tecnologia. No</text>
+<text x="28" y="148" font-size="21" fill="#dce1e9" font-weight="normal">agente de pré-venda para materiais de construção, por exemplo, transformei etapas do</text>
+<text x="28" y="178" font-size="21" fill="#dce1e9" font-weight="normal">atendimento em um fluxo que consulta estoque, confirma pedidos e encaminha a conversa a</text>
+<text x="28" y="208" font-size="21" fill="#dce1e9" font-weight="normal">uma pessoa quando necessário.</text>
+<text x="28" y="256" font-size="21" fill="#dce1e9" font-weight="normal">Desenvolvo agentes de inteligência artificial e automações com Python e n8n. Uso SQL e</text>
+<text x="28" y="286" font-size="21" fill="#dce1e9" font-weight="normal">PL/pgSQL para validar operações no PostgreSQL e Docker Compose para executar os</text>
+<text x="28" y="316" font-size="21" fill="#dce1e9" font-weight="normal">serviços. Trabalho também com APIs REST, webhooks, logs e alertas para acompanhar o que</text>
+<text x="28" y="346" font-size="21" fill="#dce1e9" font-weight="normal">acontece depois que um fluxo é acionado.</text>
+<text x="28" y="394" font-size="21" fill="#dce1e9" font-weight="normal">Em machine learning, estudo os fundamentos do aprendizado supervisionado, com foco em</text>
+<text x="28" y="424" font-size="21" fill="#dce1e9" font-weight="normal">classificação e análise de dados com Pandas e scikit-learn. Curso Gestão da Tecnologia</text>
+<text x="28" y="454" font-size="21" fill="#dce1e9" font-weight="normal">da Informação na Estácio e Dados com Python e IA na Aceleração Santander.</text>
+<text x="28" y="502" font-size="27" fill="#bdc7da" font-weight="bold">Principais ferramentas</text>
+<text x="28" y="536" font-size="20" fill="#dce1e9" font-weight="normal">Python e dados — Python · SQL · Pandas · scikit-learn (fundamentos)</text>
+<text x="28" y="570" font-size="20" fill="#dce1e9" font-weight="normal">IA e automação — n8n · RAG · ChromaDB · OpenRouter · Streamlit</text>
+<text x="28" y="604" font-size="20" fill="#dce1e9" font-weight="normal">Backend e operação — FastAPI · PostgreSQL · Supabase · Docker Compose · Git</text></g></svg>
